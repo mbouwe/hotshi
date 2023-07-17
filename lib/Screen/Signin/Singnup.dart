@@ -58,6 +58,7 @@ class _SignInScreenState extends State<SignInScreen> {
                       textStyle: const TextStyle(
                         fontSize: 30.0,
                         fontWeight: FontWeight.bold,
+                          color: const Color(0xFF391c4a)
                       ),
                     ),
                     textAlign: TextAlign.center,
