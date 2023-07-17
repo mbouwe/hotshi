@@ -270,7 +270,7 @@ class OnBoardingPageState extends State<OnBoardingPage> {
         ),
 
         PageViewModel(
-          title: "Qu'est ce que Hotshi",
+          title: "Qu'est ce que Hotshi?",
           // Remove the 'body' property since we'll use 'bodyWidget' instead
           image: _buildImage('4367.png'),
           decoration: pageDecoration,
